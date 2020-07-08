@@ -10,14 +10,14 @@ Download the template HTML file. Open it in browser, and then open it in your te
 - Formulae: KaTeX
 
 ### Controls
-- Advance slide: **right**, **down**, and **space** keys
-- Previous slide: left, up keys
-- Fullscreen toggle on selected window: **F** key
-- Clone Window: **C** key
+- Advance slide: **right**, **down**, and **space**
+- Previous slide: **left**, **up**
+- Fullscreen toggle on selected window: **F**
+- Clone Window: **C**
     - yes, original and cloned windows are synchronized
     - great for presenting (P-toggle one, and fullscreen the other)
-- Presenter's toggle: **P** key
-- Help: **H** key
+- Presenter's toggle: **P**
+- Help: **H**
 
 ### Printing and PDF Exports
 - Before printing, be sure to flip through every slide! This ensures that all diagrams, formulae, code blocks, etc. are properly rendered.
@@ -25,7 +25,7 @@ Download the template HTML file. Open it in browser, and then open it in your te
 
 
 ## Credits
-Although I put a lot of work into this, much of the original source code bits are contributed by the following awesome projects:
+Although I've put a *lot* of work into this, much of the original source code is from the following awesome projects:
 - Remark: https://github.com/gnab/remark <3
 - KaTeX: https://katex.org/ <3
 - Mermaid: https://mermaid-js.github.io/ <3
