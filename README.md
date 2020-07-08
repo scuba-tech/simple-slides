@@ -1,8 +1,14 @@
 # simple-slides
 Create and present simple slideshows through an awesome local implementation of Remark, Markdown, Mermaid, and Katex!
 
+Why? Because, honestly... who *really* wants to deal with office suite formatting changes, spending too-much time making diagrams, and worrying about long-term compatibility and cross-platform editing of presentations?
+
+This implementation allows you to create the slideshow *very* rapidly inside of a single file, refer to any outside assets *if* desired, is offline-portable, and can run on any modern web browser on any operating system (oh, and you can easily export your work to any format down the road!)
+
 ## Use
-Download the template HTML file. Open it in browser, and then open it in your text editor of choice. You'll very quickly figure it out. HINT: use markdown, and "---" denotes a new slide. :)
+- Download the template HTML file. 
+- Open it in browser, and then open it in your text editor of choice. 
+- You'll very quickly figure it out. HINT: use markdown, and "---" denotes a new slide. :)
 
 ### Formatting
 - Main content: Markdown
